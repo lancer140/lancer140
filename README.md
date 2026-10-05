@@ -25,9 +25,11 @@ Atualmente estou aprendendo desenvolvimento de software e construindo meus prime
 ## Projetos
 
 **Exercícios de Python**
+
 Exercícios desenvolvidos durante meus estudos de Python.
 
 **Projeto Mika Pães**
+
 Projeto acadêmico desenvolvido com colegas para uma pequena empresa, envolvendo banco de dados e website.
 
 ## Objetivo
