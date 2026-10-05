@@ -33,7 +33,3 @@ Projeto acadêmico desenvolvido com colegas para uma pequena empresa, envolvendo
 ## Objetivo
 
 Busco minha primeira oportunidade na área de tecnologia para desenvolver minhas habilidades e ganhar experiência profissional em desenvolvimento de software.
-
----
-
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kevin-sampaio-de-carvalho-6aba66431/))
