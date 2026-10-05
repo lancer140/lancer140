@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! Eu sou o Kevin
 
-<!--
-**lancer140/lancer140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas na ETEC Raposo Tavares.
 
-Here are some ideas to get you started:
+Atualmente estou aprendendo desenvolvimento de software e construindo meus primeiros projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+* Python
+* JavaScript
+* HTML
+* CSS
+* Java
+* Git & GitHub
+* SQL Server
+* MySQL
+
+## Atualmente estudando
+
+* Python
+* Desenvolvimento web
+* Banco de dados
+* Git e GitHub
+
+## Projetos
+
+**Exercícios de Python**
+Exercícios desenvolvidos durante meus estudos de Python.
+
+**Projeto Mika Pães**
+Projeto acadêmico desenvolvido com colegas para uma pequena empresa, envolvendo banco de dados e website.
+
+## Objetivo
+
+Busco minha primeira oportunidade na área de tecnologia para desenvolver minhas habilidades e ganhar experiência profissional em desenvolvimento de software.
+
+---
+
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kevin-sampaio-de-carvalho-6aba66431/))
